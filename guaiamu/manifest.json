@@ -1,0 +1,50 @@
+{
+    "background_color": "#ffffff",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "Guaiamu",
+    "orientation": "portrait",
+    "scope": "/",
+    "short_name": "Guaiamu",
+    "start_url": "index.html",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "assets/icons/196.png",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "assets/icons/512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ],
+    "description": "Este é o Guaiamu, uma plataforma que te guia pela cidade do Recife, afim de te mostrar as melhores opções de rolês.",
+    "id": "gaia",
+    "lang": "pt",
+    "display_override": [
+      "standalone",
+      "fullscreen",
+      "minimal-ui",
+      "browser",
+      "window-controls-overlay"
+    ],
+    "categories": [
+      "enternainment",
+      "news",
+      "food",
+      "government",
+      "kids",
+      "lifestyle",
+      "music",
+      "productivity",
+      "shopping",
+      "social",
+      "travel",
+      "utilities"
+    ],
+    "prefer_related_applications": true
+  }
